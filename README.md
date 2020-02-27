@@ -1,6 +1,6 @@
 # R-shiny-ideal-home-project
 
-App, Click here>: https://mylee2018.shinyapps.io/isss616_project_final/
+## R Shiny App, Click here>: https://mylee2018.shinyapps.io/isss616_project_final/
 
 ## Is this your Ideal Home Project done in R-Shiny<br><br>
 
